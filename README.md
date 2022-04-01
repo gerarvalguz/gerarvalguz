@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
 <h3 align="center">Software web developer</h3>
 
-- 🔭 I’m currently working on **some personal projects**
+- 🔭 I’m currently working on **izzi as Web developer**
 
 - 💬 Ask me about **React, Laravel, PHP, Javascript**
 
